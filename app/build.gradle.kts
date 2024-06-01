@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "duyndph34554.fpoly.lab_6"
+    namespace = "toanntph32395.fpoly.lab_6"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "duyndph34554.fpoly.lab_6"
+        applicationId = "toanntph32395.fpoly.lab_6"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
